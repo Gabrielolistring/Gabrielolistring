@@ -57,11 +57,10 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do ParanÃ
 />          
 <img 
   align="left" 
-  alt="C" 
-  title="C"
-  width="30px"
-  height="30px"
-  style="padding-right: 10px;"
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"         
 />
 
