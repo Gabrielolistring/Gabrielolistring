@@ -60,7 +60,7 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do ParanÃ
      align="left" 
     alt="Git" 
     title="Git"
-    width="Git" 
+    width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
