@@ -12,7 +12,7 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do ParanÃ
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -20,7 +20,7 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do ParanÃ
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -28,7 +28,7 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do ParanÃ
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -36,7 +36,7 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do ParanÃ
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
@@ -44,7 +44,7 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do ParanÃ
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img
@@ -52,7 +52,7 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do ParanÃ
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 10px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />          
 <img 
@@ -60,7 +60,7 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do ParanÃ
     alt="C" 
     title="C"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 10px; vertical-align: middle;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"         
 />
 
