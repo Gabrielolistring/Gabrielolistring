@@ -61,12 +61,11 @@ Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do Paran√
     title="C"
     width="30px" 
     style="padding-right: 10px; vertical-align: middle;"
-   <img src="https://skillicons.dev/icons?i=c" alt="C Language Icon"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 </br>
 </br>
 </br>
-
 
           
