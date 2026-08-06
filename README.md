@@ -12,7 +12,7 @@ Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. D
     align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="60px" 
+    width="50px" 
     style="padding-right: 10px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 /> 
@@ -20,7 +20,7 @@ Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. D
     align="left" 
     alt="MYSQL"
     title="MYSQL" 
-    width="60px" 
+    width="50px" 
     style="padding-right: 10px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />        
