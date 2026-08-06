@@ -8,64 +8,13 @@ Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. D
 ---
 ### Linguagens e tecnologias
 
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    height="40"
-    width="60px" 
-    style="padding-right: 20px; vertical-align: middle;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/> 
-<img 
-    align="left" 
-    alt="MYSQL"
-    title="MYSQL" 
-    height="40"
-    width="60px" 
-    style="padding-right: 20px; vertical-align: middle;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>        
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    height="40"
-    width="30px" 
-    style="padding-right: 20px; vertical-align: middle;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    height="40"
-    width="30px" 
-    style="padding-right: 20px; vertical-align: middle;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+## 🛠️ Linguagens e tecnologias
 
-<img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    height="40"
-    width="30px" 
-    style="padding-right: 20px; vertical-align: middle;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    height="40"
-    width="30px" 
-    style="padding-right: 20px; vertical-align: middle;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
-</br>
-</br>
-</br>
-
-          
+| Linguagem / Ferramenta | Ícone |
+| :--- | :---: |
+| **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> |
+| **MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> |
+| **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> |
+| **CSS3** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> |
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> |
+| **C** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> |
