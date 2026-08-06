@@ -7,6 +7,23 @@ Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. D
 
 ---
 ### Linguagens e tecnologias
+
+<img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA" 
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/> 
+<img 
+    align="left" 
+    alt="MYSQL"
+    title="MYSQL" 
+    width="30px" 
+    style="padding-right: 10px; vertical-align: middle;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>        
 <img 
     align="left" 
     alt="HTML"
