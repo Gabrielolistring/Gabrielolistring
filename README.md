@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vitor Gabriel Soares de Oliveira, tenho 22 anos e sou natural do Paraná. Atualmente trabalho como tecnico de infotmatica em Maringá PR. Estou cursando Análise e desenvolvimento de sistemas na Universidade Cidade Verde, e Física Bacharelado na Universidade Estadual de Maringá e tambem alguns cursos tecnicos relevantes para a area da tecnologia. Todas as areas de tecnologia e da Física me despertam vontade pelo conhecimento.
+Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. Decidi usar meu olhar analítico e lógico para crescer no mercado de trabalho da tecnologia.
 
 
 ---
