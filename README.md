@@ -13,7 +13,7 @@ Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. D
     alt="JAVA"
     title="JAVA" 
     width="60px" 
-    style="padding-right: 10px; vertical-align: middle;"
+    style="padding-right: 20px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 /> 
 <img 
@@ -21,7 +21,7 @@ Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. D
     alt="MYSQL"
     title="MYSQL" 
     width="60px" 
-    style="padding-right: 10px; vertical-align: middle;"
+    style="padding-right: 20px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />        
 <img 
@@ -37,7 +37,7 @@ Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. D
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px; vertical-align: middle;" 
+    style="padding-right: 20px; vertical-align: middle;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
@@ -45,16 +45,16 @@ Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. D
     align="left" 
     alt="Git" 
     title="Git"
-    width="60px" 
-    style="padding-right: 10px; vertical-align: middle;"
+    width="30px" 
+    style="padding-right: 20px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
     alt="C" 
     title="C"
-    width="60px" 
-    style="padding-right: 10px; vertical-align: middle;"
+    width="30px" 
+    style="padding-right: 20px; vertical-align: middle;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
