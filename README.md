@@ -8,10 +8,6 @@ Olá! Me chamo Vitor Gabriel e sou um desenvolvedor vindo da área da Física. D
 ---
 ### Linguagens e tecnologias
 
-## 🛠️ Linguagens e tecnologias
-
-<h2>🛠️ Linguagens e tecnologias</h2>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/> &nbsp;
